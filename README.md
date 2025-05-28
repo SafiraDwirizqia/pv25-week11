@@ -39,12 +39,12 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="scroll_horizontal.png" width="200"/><br>
-      <b>Tampilan tabel yang bisa di scroll secara horizontal ketika data buku banyak.</b>
-    </td>
-    <td align="center">
       <img src="scroll_vertikal.png" width="200"/><br>
       <b>Tampilan tabel yang bisa di scroll secara vertikal ketika data buku banyak.</b>
+    </td>
+    <td align="center">
+      <img src="scroll_horizontal.png" width="200"/><br>
+      <b>Tampilan tabel yang bisa di scroll secara horizontal ketika data buku banyak.</b>
     </td>
   </tr>
 </table>
